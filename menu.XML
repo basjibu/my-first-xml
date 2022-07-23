@@ -1,0 +1,27 @@
+<menu>
+	<food>
+		<name>Pizza</name>
+		<price>20$</price>
+		<calorie>500</calorie>
+	</food>
+	<food>
+		<name>Burger</name>
+		<price>15$</price>
+		<calorie>600</calorie>
+	</food>
+	<food>
+		<name>Hotdog</name>
+		<price>12$</price>
+		<calorie>450</calorie>
+	</food>
+	<food>
+		<name>Noodle</name>
+		<price>17$</price>
+		<calorie>480</calorie>
+	</food>
+	<food>
+		<name>Mango</name>
+		<price>6$</price>
+		<calorie>280</calorie>
+	</food>
+</menu>
